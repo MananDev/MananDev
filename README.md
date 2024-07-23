@@ -14,7 +14,7 @@
 <br/>  
 
 
-## My Skill Set  
+## I will Learn 
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
