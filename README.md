@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Manan, an 18 y/o Flutter and Firebase Dynamic duo that'll make your app development fly faster than a flaming phoenix!</div>  
+### <div align="center">I'm Manan, an 18 y/o noob that'll make your day better by writing 5 lines of code :D!</div>  
   
 
 - 🌱 I’m currently learning Frontend Development
