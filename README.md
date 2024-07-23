@@ -6,11 +6,7 @@
 ### <div align="center">I'm Manan, an 18 y/o Flutter and Firebase Dynamic duo that'll make your app development fly faster than a flaming phoenix!</div>  
   
 
-- 🌱 I’m currently learning Dart Language  
-  
-
-- ❓ Ask me about anything related to Flutter, Firebase and related technologies.  
-  
+- 🌱 I’m currently learning Frontend Development
 
 - ⚡ Fun fact: I use tabs over spaces  
   
